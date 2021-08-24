@@ -1,0 +1,175 @@
+.baseGrid {
+  display: grid
+}
+
+.gridCols1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr))
+}
+
+.gridCols2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr))
+}
+
+.gridCols3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr))
+}
+
+.gridCols4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr))
+}
+
+.gridCols5 {
+  grid-template-columns: repeat(5, minmax(0, 1fr))
+}
+
+.gridCols6 {
+  grid-template-columns: repeat(6, minmax(0, 1fr))
+}
+
+.gridCols7 {
+  grid-template-columns: repeat(7, minmax(0, 1fr))
+}
+
+.gridCols8 {
+  grid-template-columns: repeat(8, minmax(0, 1fr))
+}
+
+.gridCols9 {
+  grid-template-columns: repeat(9, minmax(0, 1fr))
+}
+
+.gridCols10 {
+  grid-template-columns: repeat(10, minmax(0, 1fr))
+}
+
+.gridCols11 {
+  grid-template-columns: repeat(11, minmax(0, 1fr))
+}
+
+.gridCols12 {
+  grid-template-columns: repeat(12, minmax(0, 1fr))
+}
+
+.gridNoCols {
+  grid-template-columns: none
+}
+
+.space0 {
+  gap: 0
+}
+
+.space1 {
+  gap: .25rem
+}
+
+.space2 {
+  gap: .5rem
+}
+
+.space3 {
+  gap: .75rem
+}
+
+.space4 {
+  gap: 1rem
+}
+
+.space5 {
+  gap: 1.25rem
+}
+
+.space6 {
+  gap: 1.5rem
+}
+
+.space7 {
+  gap: 1.75rem
+}
+
+.space8 {
+  gap: 2rem
+}
+
+.space9 {
+  gap: 2.25rem
+}
+
+.space10 {
+  gap: 2.5rem
+}
+
+.space11 {
+  gap: 2.75rem
+}
+
+.space12 {
+  gap: 3rem
+}
+
+.space14 {
+  gap: 3.5rem
+}
+
+.space16 {
+  gap: 4rem
+}
+
+.space20 {
+  gap: 5rem
+}
+
+.space25 {
+  gap: 6rem
+}
+
+.space28 {
+  gap: 7rem
+}
+
+.space32 {
+  gap: 8rem
+}
+
+.space36 {
+  gap: 9rem
+}
+
+.space40 {
+  gap: 10rem
+}
+
+.space44 {
+  gap: 11rem
+}
+
+.space48 {
+  gap: 12rem
+}
+
+.space52 {
+  gap: 13rem
+}
+
+.space56 {
+  gap: 14rem
+}
+
+.space60 {
+  gap: 15rem
+}
+
+.space64 {
+  gap: 16rem
+}
+
+.space72 {
+  gap: 18rem
+}
+
+.space80 {
+  gap: 20rem
+}
+
+.space96 {
+  gap: 24rem
+}

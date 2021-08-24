@@ -1,0 +1,7 @@
+.link {
+    @apply inline-flex items-center w-full text-sm font-semibold transition-colors duration-150 hover:text-gray-800 hover:text-gray-200 ml-4 cursor-pointer
+}
+
+.activeLink {
+    @apply border-b-2 border-gray-900
+}

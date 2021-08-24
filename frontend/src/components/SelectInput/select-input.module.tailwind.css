@@ -1,0 +1,31 @@
+.selectInputContainer {
+    @apply w-full px-3
+}
+
+.selectInputLabel {
+    @apply block text-gray-800 text-sm font-medium mb-1
+}
+
+.selectInputWrapper {
+    @apply mt-1 relative
+}
+
+.selectInput {
+    @apply bg-white border-2 border-black focus:border-gray-500 py-3 px-4 placeholder-gray-500 w-full text-gray-800
+}
+
+.selectInputError {
+   @apply border-red-500 focus:ring-2 focus:ring-red-200 focus:outline-none
+}
+
+.selectInputOption {
+    @apply text-gray-900 cursor-default select-none relative py-2 pl-3 pr-9
+}
+
+.errorText {
+    @apply text-red-500 text-base
+}
+
+.required {
+    @apply text-red-600
+}

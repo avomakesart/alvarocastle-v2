@@ -1,0 +1,121 @@
+.baseGrid {
+    @apply grid
+}
+
+.gridCols1 {
+    @apply grid-cols-1
+}
+
+.gridCols2{
+    @apply grid-cols-2
+}
+
+.gridCols3 {
+    @apply grid-cols-3
+}
+
+
+.gridCols4 {
+    @apply grid-cols-4
+}
+
+.gridCols5 {
+    @apply grid-cols-5
+}
+
+.gridCols6 {
+    @apply grid-cols-6
+}
+
+.gridCols7{
+    @apply grid-cols-7
+}
+
+.gridCols8 {
+    @apply grid-cols-8
+}
+
+.gridCols9 {
+    @apply grid-cols-9
+}
+
+.gridCols10 {
+    @apply grid-cols-10
+}
+
+.gridCols11 {
+    @apply grid-cols-11
+}
+
+.gridCols12 {
+    @apply grid-cols-12
+}
+
+.gridNoCols {
+    @apply grid-cols-none
+}
+
+.space0 {
+   @apply  gap-0
+}
+
+.space1 {
+ @apply gap-1	
+}
+.space2 { @apply gap-2 }
+
+.space3 { @apply gap-3 }
+
+.space4 { @apply gap-4 }
+
+.space5 { @apply gap-5 }	
+
+.space6 { @apply gap-6 }
+
+.space7 { @apply gap-7 }	
+
+.space8 { @apply gap-8 }	
+
+.space9 { @apply gap-9 }
+
+.space10 { @apply gap-10 }
+
+
+.space11 { @apply gap-11 }
+
+
+.space12 { @apply gap-12 }	
+
+.space14 { @apply gap-14 }	
+
+
+.space16 { @apply gap-16 }	
+
+.space20 { @apply gap-20 }	
+
+.space25 { @apply gap-24 }	
+
+.space28 { @apply gap-28 }
+
+.space32 { @apply gap-32 } 
+
+.space36 { @apply gap-36 }
+
+.space40 { @apply gap-40 } 
+
+.space44 { @apply gap-44 }	
+.space48 { @apply gap-48 }	
+
+.space52 { @apply gap-52 } 
+
+.space56 { @apply gap-56 }	
+
+.space60 { @apply gap-60 }
+
+.space64 { @apply gap-64 }	
+
+.space72 { @apply gap-72 }	
+
+.space80 { @apply gap-80 }
+
+.space96 { @apply gap-96 }	
